@@ -1,0 +1,256 @@
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-mPCLQ7A.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u-w4BMUTPHjxsIPx-mPCLQ7A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCI.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AUi-qJCY.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u8w4BMUTPHh30AUi-qJCY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-q.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u8w4BMUTPHh30AXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAUi-qJCY.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u8w4BMUTPHjxsAUi-qJCY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-q.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u8w4BMUTPHjxsAXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwaPGR_p.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u9w4BMUTPHh50XSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u9w4BMUTPHh50XSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwaPGR_p.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u9w4BMUTPHh7USSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u9w4BMUTPHh7USSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6uyw4BMUTPHjxAwXjeu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_FQft1dw.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u_w4BMUTPHjxsI3wi_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwft.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_FQft1dw.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u_w4BMUTPHjxsI5wq_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwft.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwft.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\font-awesome\4.3.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://mixero.io/
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\index.htm
+Content Type: text/html
+
+Uri: https://mixero.io/about
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\about.html
+Content Type: text/html
+
+Uri: https://mixero.io/assets/css/animate.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/bootstrap.min.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/fonts.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\fonts.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/jquery-ui.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/jquery.fancybox.min.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/owl.carousel.min.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/owl.theme.default.min.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/responsive.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/style.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\style.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/css/sweetalert.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\css\sweetalert.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/css/all.min.css
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\css\all.min.css
+Content Type: text/css
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-brands-400.ttf
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-brands-400.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-regular-400.ttf
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-regular-400.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-solid-900.ttf
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-solid-900.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://mixero.io/assets/fonts/fontawesome-free-6/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\fontawesome-free-6\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://mixero.io/assets/fonts/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://mixero.io/assets/fonts/S6uyw4BMUTPHjx4wXg.woff2
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\fonts\S6uyw4BMUTPHjx4wXg.woff2
+Content Type: font/woff2
+
+Uri: https://mixero.io/assets/img/background.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\background.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/bank.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\bank.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/favicon.ico
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://mixero.io/assets/img/guarantee.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\guarantee.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/home.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\home.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/logo.svg
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://mixero.io/assets/img/nologs.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\nologs.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/service-bg.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\service-bg.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/step1.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\step1.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/step2.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\step2.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/step3.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\step3.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/img/step4.png
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\img\step4.png
+Content Type: image/png
+
+Uri: https://mixero.io/assets/js/jquery-3.2.0.min.js
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\js\jquery-3.2.0.min.js
+Content Type: application/javascript
+
+Uri: https://mixero.io/assets/js/main.js
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://mixero.io/assets/js/sweet.min.js
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\assets\js\sweet.min.js
+Content Type: application/javascript
+
+Uri: https://mixero.io/faqs
+File Name: C:\Users\user\Pictures\Новая папка\mixero.io\faqs.html
+Content Type: text/html
+
